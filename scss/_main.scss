@@ -1,0 +1,51 @@
+.text-justify {
+    text-align: justify;
+    border: 2px;;
+
+}
+
+.card:hover {
+    opacity: 0.7;
+}
+
+.card.text {
+    text-align: justify;
+}
+
+.nav-link {
+    font-weight: 600;
+}
+
+.img-fluid{
+    border-radius: 5%;
+}
+
+#txtComment {
+    resize: none;
+}
+
+main{
+    .card-img-top{
+        border-radius: 5%;
+        
+    }
+    .container-pedidos {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 50vh;
+      }
+      
+      form {
+        background-color:  $gradient-color-3;
+        padding: 40px;
+        border-radius: 15px;
+      }
+
+      .botonn{
+        .btn{
+            color: $gradient-color-1;
+        }
+      }
+      
+}

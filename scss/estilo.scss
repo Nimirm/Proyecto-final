@@ -1,0 +1,10 @@
+@import "variables";
+@import "body";
+@import "main";
+@import "footer";
+
+@media (max-width: 576px) {
+    .card.text {
+        font-size: 0.8rem;
+    }
+}

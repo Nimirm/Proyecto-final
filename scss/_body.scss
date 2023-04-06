@@ -1,0 +1,7 @@
+body {
+    font-family: $body-font, $heading-font;
+    font-size: $body-font-size;
+    background: $background-color;
+    background: -webkit-linear-gradient(to right, $gradient-color-1, $gradient-color-2);
+    background: linear-gradient(to right, $gradient-color-1, $gradient-color-2);
+}
